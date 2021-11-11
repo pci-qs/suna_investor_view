@@ -60,6 +60,15 @@ const messages = {
     history: "History",
     year: "Year",
     month: "Month",
+    percent_profitable: "Percent Profitable",
+    max_balance_drawdown: "Max Balance Drawdown",
+    starting_balance: "Starting Balance",
+    current_balance: "Current Balance",
+    deposits: "Deposits",
+    margin_used: "Margin Used",
+    active_since: "Active Since",
+    withdrawals: "Withdrawals",
+    profit_factor: "Profit Factor",
   },
   'ge': {
     color: "Farbe",
@@ -117,6 +126,15 @@ const messages = {
     history: "Geschichte",
     year: "Year",
     month: "Month",
+    percent_profitable: "Prozent profitabel",
+    max_balance_drawdown: "Max Kontostand Drawdown",
+    starting_balance: "Startguthaben",
+    current_balance: "Aktueller Saldo",
+    deposits: "Einlagen",
+    margin_used: "Benutzte Marge",
+    active_since: "Aktiv Seit",
+    withdrawals: "Abhebungen",
+    profit_factor: "Gewinnfaktor",
   }
 };
 
